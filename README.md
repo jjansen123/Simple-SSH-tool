@@ -1,3 +1,6 @@
+![C++17](https://img.shields.io/badge/language-C%2B%2B17-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Simple SSH Tool
 
 A **lightweight, easy-to-use SSH profile manager** built in C++.  

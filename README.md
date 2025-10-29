@@ -11,7 +11,8 @@ All profiles are stored locally in a simple JSON file.
 - Create and save SSH profiles locally  
 - Connect to servers instantly via saved profiles  
 - Profiles stored in a readable `profiles.json` file  
-- Works directly from the terminal  
+- Works directly from the terminal
+- Simple CLI based user interface
 - No external databases or servers — local only  
 - Built using [nlohmann/json](https://github.com/nlohmann/json) for easy JSON handling  
 

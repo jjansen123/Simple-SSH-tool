@@ -35,13 +35,13 @@ Once you did that you can either compile it with your preffered compiler or use 
 
 ---
 
-## 🪪 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## Author
 
 **Jur Jansen**  
 GitHub: [@jjansen123](https://github.com/jjansen123)

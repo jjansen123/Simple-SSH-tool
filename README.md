@@ -8,3 +8,5 @@ thanks to [nlohmann/json](https://github.com/nlohmann/json) for the JSON intergr
 - Default host `localhost` and port `2222`
 - Simple menu-based interface
 
+## How do I compile myself?
+- soon

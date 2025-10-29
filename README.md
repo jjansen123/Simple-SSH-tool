@@ -32,3 +32,18 @@ git clone https://github.com/jjansen123/Simple-SSH-tool.git
 cd Simple-SSH-tool
 ```
 Once you did that you can either compile it with your preffered compiler or use `SSHConnection.sln` to open Visual Studio 2022
+
+---
+
+## 🪪 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Jur Jansen**  
+GitHub: [@jjansen123](https://github.com/jjansen123)
+
+> _“SSH doesn’t have to be complicated — keep it simple.”_

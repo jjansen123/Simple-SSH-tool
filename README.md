@@ -65,7 +65,7 @@ g++ -std=c++17 SSHConnection/src/main.cpp -o simple-ssh
 ## 🐛 Reporting Issues
 
 If you encounter any bugs or issues, please submit them via GitHub Issues:  
-[https://github.com/jjansen123/Simple-SSH-tool/issues](issues)
+[issues](https://github.com/jjansen123/Simple-SSH-tool/issues)
 
 When reporting a bug, include:
 - Steps to reproduce the issue

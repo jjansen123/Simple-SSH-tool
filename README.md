@@ -26,5 +26,6 @@ All profiles are stored locally in a simple JSON file.
 
 ### Clone the repository
 ```bash
+cd C:\Path\To\Preferred\Library
 git clone https://github.com/jjansen123/Simple-SSH-tool.git
 cd Simple-SSH-tool

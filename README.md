@@ -62,6 +62,17 @@ g++ -std=c++17 SSHConnection/src/main.cpp -o simple-ssh
 ❌ profiles.json not found | The file will be created automatically when you add a profile. Ensure write permissions in the working directory
 ```
 ---
+## 🐛 Reporting Issues
+
+If you encounter any bugs or issues, please submit them via GitHub Issues:  
+[https://github.com/jjansen123/Simple-SSH-tool/issues](issues)
+
+When reporting a bug, include:
+- Steps to reproduce the issue
+- Expected behavior
+- Actual behavior
+- Any error messages or logs
+---
 
 ## License
 

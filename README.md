@@ -30,4 +30,4 @@ cd C:\Path\To\Preferred\Library
 git clone https://github.com/jjansen123/Simple-SSH-tool.git
 cd Simple-SSH-tool
 ```
-Once you did that you can either compile it with your preffered compiler or use `SSHConnection.sln" to open Visual Studio 2022
+Once you did that you can either compile it with your preffered compiler or use `SSHConnection.sln` to open Visual Studio 2022

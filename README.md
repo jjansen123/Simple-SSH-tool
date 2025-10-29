@@ -1,14 +1,30 @@
-# Simple SSH tool
-thanks to [nlohmann/json](https://github.com/nlohmann/json) for the JSON intergration!
+# Simple SSH Tool
+
+A **lightweight, easy-to-use SSH profile manager** built in C++.  
+It allows you to quickly create, store, and connect to SSH profiles without typing long commands each time.  
+All profiles are stored locally in a simple JSON file.
+
+---
 
 ## Features
-- Easy SSH connection
-- Save multiple profiles with host, port, username
-- Profiles stored locally in JSON
-- Default host `localhost` and port `2222`
-- Simple menu-based interface
 
-## How do I compile myself?
-Since all binary's used in this code are included in the src, compiling the program should be quite easy!
-- Make sure you have Visual Studio 2022 installed and open the .sln file in the zip you got.
-- Then the compiler setting should already be right and you can just use ctrl + B to build!
+- Create and save SSH profiles locally  
+- Connect to servers instantly via saved profiles  
+- Profiles stored in a readable `profiles.json` file  
+- Works directly from the terminal  
+- No external databases or servers — local only  
+- Built using [nlohmann/json](https://github.com/nlohmann/json) for easy JSON handling  
+
+---
+
+## Installation
+
+### Prerequisites
+- C++17 or newer  
+- `g++` or `clang++` compiler  
+- `make` (optional but recommended)
+
+### Clone the repository
+```bash
+git clone https://github.com/jjansen123/Simple-SSH-tool.git
+cd Simple-SSH-tool

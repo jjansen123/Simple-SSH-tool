@@ -33,11 +33,12 @@ cd Simple-SSH-tool
 ```
 Once you did that you have a few choices
 
+Open the project in Visual Studio 2022:
 ```bash
 SSHConnection.sln
 ```
-to open the project in Visual Studio 2022
 
+Compile the project using GNU C++ Compiler:
 ```bash
 g++ -std=c++17 SSHConnection/src/main.cpp -o simple-ssh
 ```

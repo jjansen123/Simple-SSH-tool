@@ -83,6 +83,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **Jur Jansen**  
-GitHub: [@jjansen123](https://github.com/jjansen123)
+GitHub: [@JurJansen](https://github.com/JurJansen)
 
 > _“SSH doesn’t have to be complicated — keep it simple.”_

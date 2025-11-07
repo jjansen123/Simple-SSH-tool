@@ -3,6 +3,8 @@
 
 # Simple SSH Tool
 
+!! **Only Windows is supported, the code can be tweaked to work on linux** !!
+
 A **lightweight, easy-to-use SSH profile manager** built in C++.  
 It allows you to quickly create, store, and connect to SSH profiles without typing long commands each time.  
 All profiles are stored locally in a simple JSON file.
